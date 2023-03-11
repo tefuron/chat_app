@@ -9,6 +9,3 @@ export default function MainContent({ children }: { children: ReactNode }) {
         </div>
     )
 }
-
-// h-screen
-// bg-gray-100

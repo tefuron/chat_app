@@ -10,4 +10,4 @@ export default function ChannelBox({ id, channel, isOdd }: { id: number, channel
         </div>
       </Link>
     )
-  }
+}

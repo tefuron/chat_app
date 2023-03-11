@@ -1,6 +1,5 @@
 import { useSession, useSupabaseClient } from "@supabase/auth-helpers-react";
 import { useRouter } from "next/router";
-import { useReducer } from "react";
 import { useForm } from "react-hook-form";
 import { HiOutlineChevronDoubleRight } from "react-icons/hi2";
 
